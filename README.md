@@ -1,2 +1,2 @@
 # blog
-nodejs express 搭建博客 启动mongod  /n node index.js
+nodejs express 搭建博客 启动mongod   node index.js
